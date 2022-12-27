@@ -1,7 +1,7 @@
 # WestEd_R
 A repository of R scripts and examples for educational researchers using R at WestEd.
 
-# Author(s)
+## Author(s)
 - Jennifer K. Houchins
 
 ## Last Update
