@@ -4,6 +4,9 @@ A repository of R scripts and examples for educational researchers using R at We
 # Author(s)
 - Jennifer K. Houchins
 
+## Last Update
+December 27, 2022
+
 ## Navigation
 The following gives a brief overview of the contents for each subdirectory.
 
