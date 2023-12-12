@@ -4,6 +4,7 @@ A repository of R scripts and examples for educational researchers using R at We
 ## Author(s)
 - Jennifer K. Houchins
 - Kelly Collins
+- Rosie Owen
 
 ## Last Update
 - January 5, 2022: Added template for pulling data from Qualtrics to Data Wrangling.
